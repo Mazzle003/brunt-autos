@@ -153,6 +153,12 @@ li {
     align-items: center;
 }
 
+.grid-3-column {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}
+
 .grid-4-column {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -167,7 +173,7 @@ li {
 /* HELPER CLASSES */
 
 .equal-width {
-    max-width: 115rem;
+    max-width: 120rem;
     margin: 0 auto;
 }
 
@@ -175,4 +181,12 @@ li {
     /* display: flex; */
     flex-direction: column;
     justify-content: space-between;
+}
+
+.product-seperator {
+    padding: 6.4rem 0 0 0;
+}
+
+.auto-span-all {
+    grid-column: 1/-1;
 }

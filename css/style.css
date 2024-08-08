@@ -1,7 +1,7 @@
 /* NAVIGATION SECTION */
 .brand-navigation {
-    background-color: #10183c;
-    padding: 3.2rem 0 1.6rem 0;
+    background-color: rgb(5, 5, 50);
+    padding: 3.2rem 0;
     border: none;
 }
 
@@ -38,7 +38,7 @@
 /* HERO SECTION */
 
 .section-hero {
-    background: linear-gradient(to bottom, #10183c, #1b2864);   
+    background: linear-gradient(to bottom, rgb(5, 5, 50), #1b2864);   
     padding: 4.8rem 0;
 }
 
@@ -77,19 +77,32 @@
 .hero-link a:link, 
 .hero-link a:visited {
     color: #fff;
+    background-color: #e16d3f;
     font-weight: 600;
     display: inline-block;
     text-decoration: none;
     font-size: 1.6rem;
     padding: 1.4rem 2.4rem;
-    box-shadow: inset 0 0 0 2px;
     border-radius: 6px;
+    transition: all 0.35s;
 }
 
 .hero-link a:hover, 
 .hero-link a:active {
-    text-decoration: underline;
-    text-decoration-color: #eca487;
+    background-color: #e47f57;
+}
+
+.closed-link + a:link, 
+.closed-link + a:visited {
+    color: #e16d3f;
+    background-color: #fff;
+}
+
+.closed-link + a:hover, 
+.closed-link + a:active {
+    color: #fff;
+    background: none;
+    box-shadow: inset 0 0 0 2px #fff;
 }
 
 .clients {
@@ -123,17 +136,23 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: none;
+    /* box-shadow: -1.2rem -1.2rem 2.4rem #1c2967;
+    border-radius: 3px;
+    max-width: 100%; */
 }
 
 .hero-img {
     max-width: 100%;
+    transform: scale(1.1);
+    padding: 3.2rem 0;
 }
 
 
 /* FEATURES SECTION */
 
 .section-features {
-    padding: 12.8rem 0;
+    padding: 9.6rem 0;
 }
 
 .features > .grid-2-column {
@@ -174,7 +193,7 @@
 /* PRODUCT SECTION */
 
 .section-products {
-    padding: 2.4rem 0 12.8rem 0;
+    padding: 4.8rem 0 9.6rem 0;
 }
 
 .products {
@@ -300,7 +319,7 @@
 
 .section-testimonials {
     background-color: #ebedf9;
-    padding: 12.8rem 0;   
+    padding: 9.6rem 0;   
 }
 
 .testimonials {
@@ -334,7 +353,7 @@
 /* CTA SECTION */
 
 .section-cta {
-    padding: 12.8rem 0;
+    padding: 9.6rem 0;
     background: linear-gradient(to bottom right, rgba(11, 16, 40, 0.813), rgba(32, 47, 119, 0.557)),
     url(../asset/img/cta-section-bg.png);
     background-repeat: no-repeat;
@@ -380,7 +399,7 @@
     font-size: 1.6rem;
     padding: 1.2rem;
     border: none;
-    border-radius: .6rem;
+    border-radius: 1rem;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
@@ -459,9 +478,41 @@
  
 
 
-/* XXL 1400 upwaed */
+/* XXL 1400 upward */
 
-@media (min-width: 1400px) {
+@media (min-width: 1450px) {
+
+    html {
+        font-size: 75%;
+    }
+
+    .equal-width {
+        max-width: 140rem;
+        margin: 0 auto;
+    }
+
+    .container {
+        max-width: 130rem;
+        margin: 0 auto;
+        padding: 0 4.8rem;
+    }
+
+    .section-hero .container {
+        padding: 0 3.2rem;
+    }
+
+    .hero-img {
+        max-width: 100%;
+        transform: scale(1.5);
+    }
+
+    .features-heading {
+        margin-top: 6.4rem;
+    }
+
+    .features-img {
+        transform: scale(1.15);
+    }
 
 }
 
@@ -482,6 +533,10 @@
 /* Lg 992 to 1200 */
 @media (min-width: 992px) and (max-width: 1200px) {
 
+    html {
+        font-size: 56.25%;
+    }
+
     .section-hero .container {
         padding: 0 3.2rem;
     }
@@ -496,7 +551,7 @@
 @media (min-width: 768px) and (max-width: 992px) {
 
     html {
-        font-size: 56.25%;
+        font-size: 50%;
     }
 
     .brand-navigation  {
@@ -513,7 +568,7 @@
     }
 
     .container {
-        padding: 0 6.4rem;
+        padding: 0 2.6rem;
     }
 
     .section-hero > .container > .grid-2-column {
@@ -529,26 +584,14 @@
         position: relative;     
     }
 
-    .heading-tertiary {
+    /* .heading-tertiary {
         font-size: 1.8rem;
-    }
-
-    .primary-header::after {
-        content: "100";
-        position: absolute;
-        color: #fff;
-        background-color: #d9480f;
-        /* border: 2px solid #fff; */
-        border-radius: 50%;
-        padding: 2.4rem;
-        font-size: 2.4rem;
-        top: -30%;
-        left: 85%;
-        /* transform: translate(5%, -50%); */
-    }
+    } */
 
     .hero-description {
         font-size: 3.2rem;
+        padding: 4.8rem 0;
+        line-height: 1.7;
     }
 
     .hero-img {
@@ -556,20 +599,16 @@
         transform: scale(1.1);
     }
 
-    .hero-description {
-        font-size: 2.8rem;
-        padding: 4.8rem 0;
-        line-height: 1.7;
-    }
-
     .hero-link  {
         flex-direction: column;
-        padding: 0 3.2rem 2.4rem 3.2rem;
+        padding: 0 0 2.4rem 0;
+        gap: 2rem;
     }
 
     .hero-link a:link, 
     .hero-link a:visited  {
         font-size: 2rem;
+        padding: 1.6rem 3.2rem;
     }
 
     .hero-img-box {
@@ -581,10 +620,6 @@
 
     .clients {
         text-align: center;
-        /* padding: 3.2rem 0;
-        display: flex;
-        align-items: center;
-        gap: 2.4rem; */
         justify-content: center;
     }
 
@@ -596,24 +631,16 @@
         gap: 4.8rem;
     }
 
-    .feature-numbers {
-        font-size: 8rem;
-    }
-
-    .features-description {
-        font-size: 1.2rem;
-    }
-
     .section-products .container .grid-4-column {
         grid-template-columns: repeat(3, 1fr);
     }
 
-    .item-name {
-        font-size: 1.4rem;
-    }
+    .products {
+        gap: 3.2rem;
+    }    
 
-    .item-name + .prop-list .prop {
-        font-size: 1.2rem;
+    .item:hover {
+        transform: scale(1.12);
     }
 
     .top-brands {
@@ -629,14 +656,6 @@
 
     .brand-ist {
         padding: 2.4rem 0 0 0;
-    }
-
-    .brand-list > .brand {
-        font-size: 1.4rem;
-    }
-
-    .testimonial-text {
-        font-size: 1.2rem;
     }
 
     .testimonial-img {
@@ -666,7 +685,7 @@
 @media (min-width: 576px) and (max-width: 768px) {
 
     html {
-        font-size: 50%;
+        font-size: 43.75%;
     }
 
     .grid-2-column {
@@ -707,26 +726,12 @@
         position: relative;     
     }
 
-    .primary-header::after {
-        content: "10";
-        position: absolute;
-        color: #fff;
-        background-color: #d9480f;
-        /* border: 2px solid #fff; */
-        border-radius: 50%;
-        padding: 2.4rem;
-        font-size: 2.4rem;
-        top: -30%;
-        left: 85%;
-        /* transform: translate(5%, -50%); */
-    }
-
     .secondary-header {
         font-size: 3.6rem;
     }
 
     .heading-tertiary {
-        font-size: 2.6rem;
+        font-size: 3rem;
     }
 
     .hero-description {
@@ -737,12 +742,14 @@
 
     .hero-link  {
         flex-direction: column;
-        padding: 0 3.2rem 2.4rem 3.2rem;
+        padding: 0 0 2.4rem 0;
+        gap: 2rem;
     }
 
     .hero-link a:link, 
     .hero-link a:visited  {
-        font-size: 1.8rem;
+        font-size: 2rem;
+        padding: 1.6rem 3.2rem;
     }
 
     .hero-img-box {
@@ -754,10 +761,6 @@
 
     .clients {
         text-align: center;
-        /* padding: 3.2rem 0;
-        display: flex;
-        align-items: center;
-        gap: 2.4rem; */
         justify-content: center;
     }
 
@@ -782,7 +785,15 @@
     }
 
     .item-name {
-        font-size: 1.8rem;
+        font-size: 2rem;
+    }
+
+    .item-name + .prop-list .prop {
+        font-size: 1.6rem;
+    }
+
+    .prop-list + .price > .price-span {
+        font-size: 1.6rem;
     }
 
     .top-brands {
@@ -790,12 +801,20 @@
         align-self: center;
     }
 
+    .brand-list > .brand {
+        font-size: 1.6rem;
+    }
+
+    .testimonial-text {
+        font-size: 1.2rem;
+    }
+
     .testimonial-img {
         max-width: 50%;
     }
     
     .testimonial-text {
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
 
     .cta-heading .secondary-header + p {
@@ -826,7 +845,7 @@
 @media (max-width: 576px) {
 
     html {
-        font-size: 43.75%;
+        font-size: 37.5%;
     }
 
     span {
@@ -850,7 +869,7 @@
     }
 
     .section-hero {
-        padding: 12.8rem 2.6rem;
+        padding: 12.8rem 3.2rem;
 
     }
 
@@ -867,29 +886,20 @@
     }
 
     .primary-header {
-        font-size: 6.4rem;   
+        font-size: 6.2rem;   
         position: relative;     
     }
 
-    .primary-header::after {
-        content: "10";
-        position: absolute;
-        color: #fff;
-        background-color: #d9480f;
-        /* border: 2px solid #fff; */
-        border-radius: 50%;
-        padding: 2.4rem;
-        font-size: 2.4rem;
-        top: -30%;
-        left: 75%;
-    }
-
     .secondary-header {
-        font-size: 3.2rem;
+        font-size: 3.6rem;
     }
 
     .heading-tertiary {
-        font-size: 2.4rem;
+        font-size: 3rem;
+    }
+
+    .section-hero > .container {
+        padding: 0 2.4rem;
     }
 
     .hero-description {
@@ -899,13 +909,15 @@
     }
 
     .hero-link  {
-        flex-direction: column;
-        padding: 0 3.2rem 2.4rem 3.2rem;
+        flex-direction: row;
+        justify-content: center;
+        padding: 0 0 2.4rem 0;
     }
 
     .hero-link a:link, 
     .hero-link a:visited  {
-        font-size: 1.8rem;
+        font-size: 2rem;
+        padding: 1.6rem 3.2rem;
     }
 
     .hero-img-box {
@@ -923,17 +935,13 @@
         justify-content: center;
     }
 
-    .satisfied-clients {
-        font-size: 1.6rem;
-    }
-
     .features > .grid-2-column {
         gap: 6.4rem;
         padding: 0 0 7.2rem 0;
     }
 
     .features-description {
-        font-size: 1.8rem;
+        font-size: 2.2rem;
         padding: 0 0 2.4rem 0;
         line-height: 1.8;
     }
@@ -943,7 +951,7 @@
     }
 
     .features-img {
-        transform: translateY(-2.6rem);
+        transform: translateY(-2.4rem);
     }
 
     .products {
@@ -965,7 +973,8 @@
     }
 
     .item-name {
-        font-size: 2.4rem;
+        font-size: 2.6rem;
+        font-weight: 700;
         line-height: 1.5;
     }
 
@@ -974,17 +983,17 @@
     }
 
     .item-name + .prop-list .prop {
-        font-size: 1.6rem;
-        margin-bottom: 1.6rem;
+        font-size: 2rem;
+        margin-bottom: 1.8rem;
     }
 
     .prop-list + .price > .price-span {
-        font-size: 1.8rem;
+        font-size: 2.4rem;
         font-weight: 600;
     }
 
     .brands-head {
-        font-size: 2.4rem;
+        font-size: 2.6rem;
     }
 
     .brand-list {
@@ -993,7 +1002,7 @@
     
     .brand-list > .brand {
         color: #666;
-        font-size: 1.8rem;
+        font-size: 2rem;
         margin-bottom: 1.6rem;
     }
 
@@ -1003,7 +1012,11 @@
     }
 
     .testimonial-text {
-        font-size: 1.8rem;
+        font-size: 2rem;
+    }
+
+    .testimonial-text p {
+        font-size: 1.6rem;
     }
 
     .cta-form {
@@ -1012,28 +1025,27 @@
     }
 
     .cta-heading .secondary-header + p {
-        font-size: 2rem;
+        font-size: 2.rem;
     }
 
     .cta-form div label {
         font-size: 1.6rem;
     }
 
-    .cta-form > div > input {
-        font-size: 2rem;
-        padding: 1.4rem;
-    }
-
     .grid-footer {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        /* grid-template-columns: 1fr; */
-        gap: 3.2rem;
+        gap: 2.4rem;
         align-items: start;
         row-gap: 6.4rem;
     }
 
+    .copyright-col {
+        grid-row: 2/3;
+    }
+
     .contact-col {
         grid-column: 2/-1;
+        grid-row: 2/3;
     }
 }

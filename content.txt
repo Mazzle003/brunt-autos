@@ -88,3 +88,721 @@ Services rendered
 - Cta
 - Footer 
 
+
+
+List of Cars
+
+
+1. Rolls-Royce Phantom
+
+-	Opulent luxury: Unparalleled craftsmanship and materials.
+-	Silent ride: Advanced noise isolation for a serene experience.
+-	Spacious interior: Ample legroom and comfort for passengers.
+-	Cutting-edge technology: Seamless integration of modern features with classic design.
+-	Price: Starting at $450,000
+
+2. Bentley Continental GT
+
+-	Athletic luxury: Blending performance and opulence.
+-	Powerful engine: Delivering exceptional acceleration and speed.
+-	Exquisite craftsmanship: Hand-stitched leather and fine wood veneers.
+-	Advanced infotainment: State-of-the-art technology and connectivity.
+-	Price: Starting at $220,000
+
+3. Mercedes-Benz S-Class
+
+-	Technological innovation: Pioneering driver assistance and comfort features.
+-	Luxurious comfort: Spacious cabin with advanced seating and climate control.
+-	Elegant design: Timeless aesthetics combined with modern elements.
+-	Quiet refinement: Superior noise isolation for a peaceful journey.
+-	Price: Starting at $110,000
+
+4. BMW 7 Series
+
+-	Dynamic performance: Powerful engines and precise handling.
+-	Innovative technology: Advanced driver assistance systems and connectivity.
+-	Luxurious interior: High-quality materials and spacious cabin.
+-	Customizable experience: Wide range of personalization options.
+-	Price: Starting at $90,000
+
+5. Audi A8
+
+-	Progressive design:Sleek and futuristic exterior styling.
+-	Advanced technology: Cutting-edge infotainment and driver assistance systems.
+-	Spacious and comfortable: Roomy interior with premium materials.
+-	Quiet and refined: Excellent noise isolation for a peaceful ride.
+-	Price: Starting at $85,000
+
+6. Porsche Panamera
+
+-	Sporty luxury: Combining performance and comfort.
+-	Advanced chassis technology: Exceptional handling and agility.
+-	Luxurious interior: High-quality materials and attention to detail.
+-	Powerful engines: Delivering impressive acceleration and speed.
+-	Price: Starting at $90,000
+
+7. Range Rover
+
+-	Off-road capability: Exceptional performance in challenging terrains.
+-	Luxurious comfort: Opulent interior with advanced features.
+-	Spacious and versatile: Ample cargo space and seating options.
+-	Cutting-edge technology: Modern infotainment and driver assistance systems.
+-	Price: Starting at $95,000
+
+8. Maserati Quattroporte
+
+-	Italian elegance: Stylish design and luxurious craftsmanship.
+-	Powerful engines: Delivering exhilarating performance.
+-	Sporty character: Engaging driving dynamics.
+-	Refined interior: Premium materials and comfortable seating.
+-	Price: Starting at $110,000
+
+9. Lexus LS
+
+-	Quiet luxury: Exceptional noise isolation and comfort.
+-	Advanced technology: Cutting-edge features and driver assistance systems.
+-	Refined performance: Smooth and powerful engines.
+-	Exquisite craftsmanship: Attention to detail in interior and exterior design.
+-	Price: Starting at $80,000
+
+10. Cadillac Escalade
+
+-	Opulent SUV: Spacious and luxurious interior.
+-	Powerful performance: Capable engines and confident handling.
+-	Advanced technology: Cutting-edge infotainment and safety features.
+-	Bold design: Striking exterior styling.
+-	Price: Starting at $80,000
+ 
+
+11. Lamborghini Aventador
+
+-	Price: Starting at $400,000
+-	Aggressive design: Striking and aerodynamic exterior
+-	Powerful engine: High-performance V12 engine
+-	Advanced aerodynamics: Optimized for downforce and stability
+-	Luxurious interior: Carbon fiber and leather accents
+
+12. Ferrari Roma
+
+-	Price: Starting at $225,000
+-	Elegant design: Timeless Italian styling
+-	Powerful engine: Turbocharged V8 for performance
+-	Comfortable interior: Luxurious materials and spacious cabin
+-	Advanced technology: Latest driver assistance features
+
+13. Aston Martin DB11
+
+-	Price: Starting at $210,000
+-	Timeless design: Iconic British sports car styling
+-	Luxurious interior: Handcrafted details and premium materials
+-	Powerful engine: V8 or V12 options for performance
+-	Advanced technology: Modern features integrated seamlessly
+
+14. McLaren GT
+
+-	Price: Starting at $215,000
+-	Grand touring comfort: Spacious and luxurious interior
+-	Powerful engine: Twin-turbo V8 for performance
+-	Advanced aerodynamics: Efficient and stable design
+-	Lightweight construction: Enhanced handling and performance
+
+15. Bugatti Chiron
+
+-	Price: Starting at $3,000,000
+-	Extreme performance: Quad-turbo W16 engine
+-	Luxurious interior: Bespoke craftsmanship and materials
+-	Advanced engineering: Cutting-edge technology and design
+-	Iconic status: Symbol of automotive excellence 
+
+16. Lucid Air
+
+-	Price: Starting at $105,000
+-	Electric luxury:  Long-range battery, high-performance electric motors
+-	Spacious interior: Luxurious cabin with ample legroom
+-	Advanced technology: Cutting-edge infotainment and driver assistance
+-	Sustainable luxury: Eco-friendly materials and design 
+
+17. Tesla Model S
+
+-	Price: Starting at $90,000
+-	Electric performance: High-performance electric powertrain
+-	Autopilot technology: Advanced driver assistance features
+-	Large touchscreen: Intuitive interface for controls and entertainment
+-	Long range: Impressive driving range on a single charge
+
+18. Bentley Bentayga
+
+-	Price: Starting at $170,000
+-	Luxury SUV: Opulent interior and off-road capability
+-	Powerful engines: V8, V6, or hybrid options 
+-	Advanced technology: Cutting-edge features and driver assistance
+-	Luxurious comfort: Spacious and comfortable cabin
+
+19. Lamborghini Urus
+
+-	Price: Starting at $220,000
+-	Super SUV: High-performance SUV with sports car handling
+-	Powerful engine: Twin-turbo V8 for exceptional acceleration
+-	Luxurious interior: Carbon fiber and leather accents
+-	Advanced technology: Cutting-edge infotainment and safety features
+
+20. Mercedes-Maybach GLS
+
+-	Price: Starting at $160,000
+-	Ultra-luxury SUV: Opulent interior and spaciousness
+-	Powerful engines: Smooth and refined performance
+-	Advanced technology: Cutting-edge features and driver assistance
+-	Exclusive design: Distinctive styling and presence 
+ 
+
+List of Bikes
+
+1. Harley-Davidson CVO Limited
+
+-	Price: Starting at $45,000
+-	Iconic design: Classic American cruiser styling
+-	Powerful engine: High-torque V-twin engine
+-	Luxurious features: Premium leather, audio system, and comfort amenities
+-	Long-haul comfort: Ergonomic seating and ample storage
+
+2. Ducati Panigale V4 S
+
+-	Price: Starting at $25,000
+-	Track-focused performance: High-revving V4 engine and lightweight chassis
+-	Advanced electronics: Cornering ABS, traction control, and wheelie control
+-	Aerodynamic design: Optimized for speed and stability.
+-	Luxurious touches: Premium materials and attention to detail
+
+3. BMW R 1250 GS Adventure
+
+-	Price: Starting at $20,000
+-	Adventure touring: Versatile for on and off-road riding
+-	Powerful engine: Boxer engine for torque and reliability
+-	Technology-packed: Advanced rider assistance systems and connectivity
+-	Comfort and storage: Ample luggage space and ergonomic seating
+
+4. Indian Chieftain Limited
+
+-	Price: Starting at $30,000
+-	American classic: Authentic cruiser styling and comfort
+-	Powerful engine: Thunder Stroke 111 engine for smooth power
+-	Luxurious features: Premium audio, heated seats, and cruise control
+-	Long-haul capability: Wind protection and ample storage
+
+5. Triumph Rocket 3
+
+-	Price: Starting at $25,000
+-	 Powerful cruiser: World's largest production motorcycle engine
+-	Luxurious comfort: Plush seating and ergonomic controls
+-	Modern technology: Rider-focused features and connectivity
+-	Distinctive design: Eye-catching cruiser styling
+
+ 6. Honda Gold Wing Tour
+
+-	Price: Starting at $30,000
+-	Touring luxury: Opulent comfort and long-haul capability
+-	Powerful engine: Smooth and refined six-cylinder engine
+-	Advanced technology: Audio, navigation, and rider assistance systems
+-	Storage capacity: Ample luggage space for extended journeys
+
+ 7. Kawasaki Ninja H2R
+
+-	Price: Starting at $50,000
+-	Extreme performance: Supercharged engine for unmatched power
+-	Track-focused design: Aerodynamic and lightweight chassis
+-	Advanced technology: Cutting-edge electronics and suspension
+-	Exclusive ownership: Limited production numbers
+
+ 8. Yamaha MT-10 SP
+
+-	Price: Starting at $18,000
+-	Naked bike performance: Powerful engine and agile handling
+-	Premium features: High-end suspension and electronics
+-	Sporty styling: Aggressive and dynamic design
+-	Comfortable ergonomics: Balanced riding position
+
+ 9. Ducati Scrambler Desert Sled
+
+-	Price: Starting at $15,000
+-	Adventure styling: Scrambler-inspired design and off-road capability
+-	User-friendly engine: Smooth power delivery for all riders
+-	Modern features: LED lighting and digital instrument cluster
+-	Versatile handling: Comfortable on and off-road
+
+ 10. BMW R nineT
+
+-	Price: Starting at $16,000
+-	Classic design: Heritage-inspired styling with modern technology
+-	Customizable: Wide range of customization options
+-	Air-cooled boxer engine: Iconic engine character
+-	Premium build quality: High-quality materials and craftsmanship 
+
+ 11. Triumph Bonneville Bobber
+
+-	Price: Starting at $13,000
+-	Classic bobber style: Minimalist design with modern performance
+-	Powerful engine: Smooth and torquey parallel-twin engine
+-	Comfortable riding position: Relaxed ergonomics for long rides
+-	Customizable: Wide range of accessories for personalization
+
+ 12. Harley-Davidson Pan America 1250 Special
+
+-	Price: Starting at $20,000
+-	Adventure touring: Versatile for on and off-road riding
+-	Powerful engine: Liquid-cooled V-twin for performance
+-	Advanced electronics: Rider aids and connectivity
+-	Comfortable ergonomics: Adjustable suspension and wind protection
+
+ 13. Indian Challenger Dark Horse
+
+-	Price: Starting at $25,000
+-	Bagger style: Modern interpretation of a classic design
+-	Powerful engine: Thunder Stroke 111 engine for torque
+-	Luxurious features: Premium audio and electronic suspension
+-	Long-haul comfort: Wind protection and ample storage
+
+ 14. Ducati Multistrada V4 S
+
+-	Price: Starting at $22,000
+-	Adventure sport: Versatile for touring, sport, and off-road
+-	Powerful engine: V4 engine with multiple riding modes
+-	Advanced electronics: Cornering ABS, traction control, and wheelie control
+-	Comfortable ergonomics: Adjustable suspension and wind protection
+
+ 15. BMW R 18
+
+-	Price: Starting at $18,000
+-	Cruiser heritage: Classic boxer engine and timeless design
+-	Luxurious comfort: Plush seating and modern amenities
+-	Customizable: Wide range of accessories for personalization
+-	Refined performance: Smooth power delivery and handling
+
+ 16. Yamaha YZF-R1M
+
+-	Price: Starting at $25,000
+-	Supersport performance: High-revving inline-four engine
+-	Advanced electronics: Traction control, wheelie control, and launch control
+-	Lightweight chassis: Agile handling and precise steering
+-	Aerodynamic design: Optimized for speed and stability
+
+ 17. Kawasaki Ninja ZX-10R
+
+-	Price: Starting at $20,000
+-	Supersport champion: Powerful engine and advanced electronics
+-	Lightweight chassis: Agile handling and precise steering
+-	Aerodynamic design: Optimized for high-speed performance
+-	Cutting-edge technology: Rider assistance systems and connectivity
+
+ 18. Suzuki Hayabusa
+
+-	Price: Starting at $22,000
+-	Hyperbike performance: Powerful engine and high top speed
+-	Comfortable ergonomics: Touring-friendly riding position
+-	Advanced electronics: Traction control and anti-wheelie
+-	Refined chassis: Stable and confidence-inspiring handling
+
+ 19. KTM 1290 Super Adventure S
+ 
+-	Price: Starting at $20,000
+-	Adventure touring: Long-travel suspension and off-road capability.
+-	Powerful engine: High-performance V-twin engine
+-	Advanced electronics: Rider assistance systems and connectivity
+-	Comfortable ergonomics: Adjustable seating and wind protection
+
+ 20. Honda Africa Twin Adventure Sports
+ 
+-	Price: Starting at $18,000
+-	Adventure touring: Versatile for on and off-road riding
+-	Balanced performance: Powerful engine and comfortable ergonomics
+-	Technology-packed: Rider assistance systems and connectivity.
+-	Durable construction: Built for long-distance travel 
+ 
+
+List of luxury buses
+
+
+ 10 Luxury Buses with Key Features and Prices
+
+ 1. Neoplan Starliner
+ Price: Starting at $500,000
+ Spacious interior: Ample legroom and luxury seating
+ Advanced amenities: Onboard entertainment, kitchen, and restrooms
+ Quiet ride: Superior noise isolation for comfort
+ Modern design: Sleek exterior and contemporary interior
+
+ 2. Prevost H3-45
+ Price: Starting at $500,000
+ Performance-oriented: Powerful engine and smooth ride
+ Luxurious interior: High-end materials and spacious layout
+ Advanced technology: Cutting-edge entertainment and safety features
+ Customizable options: Wide range of interior configurations 
+
+ 3. Motorcoach Industries Eclipse
+ Price: Starting at $400,000
+ Aerodynamic design: Quiet and efficient performance
+ Premium seating: Comfortable and spacious passenger accommodations
+ Advanced amenities: Kitchenette, entertainment system, and restrooms
+ Modern technology: Driver assistance and safety features
+
+ 4. Van Hool Altessa
+ Price: Starting at $450,000
+ European luxury: Elegant design and high-end finishes
+ Spacious interior: Ample luggage compartment and passenger space
+ Advanced technology: Cutting-edge entertainment and comfort features
+ Quiet ride: Superior noise isolation for a peaceful journey
+
+ 5. Setra S 515 HD
+ Price: Starting at $400,000
+ Sleek design: Modern and aerodynamic exterior
+ Comfortable seating: Spacious layout with ergonomic chairs
+ Advanced amenities: Kitchenette, entertainment system, and restrooms
+ Safety features: Advanced driver assistance systems
+
+ 6. Volvo 9900
+ Price: Starting at $450,000
+ Scandinavian design: Modern and minimalist aesthetics
+ Luxurious interior: High-quality materials and spacious layout
+ Advanced technology: Cutting-edge entertainment and safety features
+ Comfortable seating: Ergonomic chairs with ample legroom
+
+ 7. Marco Polo i8
+ Price: Starting at $350,000
+ Spacious interior: High ceilings and ample luggage space
+ Modern amenities: Kitchenette, entertainment system, and private restrooms
+ Luxurious seating: Comfortable and adjustable chairs
+ Unique design: Standout appearance with panoramic windows
+
+ 8. Irizar i6
+ Price: Starting at $400,000
+ Stylish design: Modern and elegant exterior
+ Comfortable seating: Spacious and ergonomic chairs
+ Advanced technology: Entertainment system and driver assistance
+ Quiet ride: Superior noise isolation for a peaceful journey
+
+ 9. Temsa Safari
+ Price: Starting at $300,000
+ Panoramic views: Large windows for scenic vistas
+ Spacious interior: Ample legroom and luggage space
+ Comfortable seating: Reclining chairs with leg rests
+ Modern amenities: Entertainment system and kitchen facilities
+
+ 10. MAN Lion's Coach
+ Price: Starting at $350,000
+ Performance-oriented: Powerful engine and smooth ride
+ Comfortable seating: Spacious and ergonomic chairs
+ Advanced technology: Driver assistance and safety features
+ Practical design: Efficient layout for passenger flow
+
+ Buses, Campers, and Motorhomes
+
+ Buses
+
+ 1. Neoplan Starliner
+ Price: Starting at $500,000
+ Spacious interior: Ample legroom and luxury seating
+ Advanced amenities: Onboard entertainment, kitchen, and restrooms
+ Quiet ride: Superior noise isolation
+ Modern design: Sleek exterior and contemporary interior 
+
+ 2. Prevost H3-45
+ Price: Starting at $500,000
+ Performance-oriented: Powerful engine and smooth ride
+ Luxurious interior: High-end materials and spacious layout
+ Advanced technology: Cutting-edge entertainment and safety features
+ Customizable options: Wide range of interior configurations 
+
+ 3. Motorcoach Industries Eclipse
+ Price: Starting at $400,000
+ Aerodynamic design: Quiet and efficient performance
+ Premium seating: Comfortable and spacious passenger accommodations
+ Advanced amenities: Kitchenette, entertainment system, and restrooms
+ Modern technology: Driver assistance and safety features 
+
+ 4. Van Hool Altessa
+ Price: Starting at $450,000
+ European luxury: Elegant design and high-end finishes
+ Spacious interior: Ample luggage compartment and passenger space
+ Advanced technology: Cutting-edge entertainment and comfort features
+ Quiet ride: Superior noise isolation for a peaceful journey 
+
+ 5. Setra S 515 HD
+ Price: Starting at $400,000
+ Sleek design: Modern and aerodynamic exterior
+ Comfortable seating: Spacious and ergonomic chairs
+ Advanced amenities: Kitchenette, entertainment system, and restrooms
+ Safety features: Advanced driver assistance systems
+
+ 6. Volvo 9900
+ Price: Starting at $450,000
+ Scandinavian design: Modern and minimalist aesthetics
+ Luxurious interior: High-quality materials and spacious layout
+ Advanced technology: Cutting-edge entertainment and safety features
+ Comfortable seating: Ergonomic chairs with ample legroom
+
+ 7. Marco Polo i8
+ Price: Starting at $350,000
+ Spacious interior: High ceilings and ample luggage space
+ Modern amenities: Kitchenette, entertainment system, and private restrooms
+ Luxurious seating: Comfortable and adjustable chairs
+ Unique design: Standout appearance with panoramic windows
+
+ 8. Irizar i6
+ Price: Starting at $400,000
+ Stylish design: Modern and elegant exterior
+ Comfortable seating: Spacious and ergonomic chairs
+ Advanced technology: Entertainment system and driver assistance
+ Quiet ride: Superior noise isolation for a peaceful journey
+
+ 9. Temsa Safari
+ Price: Starting at $300,000
+ Panoramic views: Large windows for scenic vistas
+ Spacious interior: Ample legroom and luggage space
+ Comfortable seating: Reclining chairs with leg rests
+ Modern amenities: Entertainment system and kitchen facilities
+
+ 10. MAN Lion's Coach
+ Price: Starting at $350,000
+ Performance-oriented: Powerful engine and smooth ride
+ Comfortable seating: Spacious and ergonomic chairs
+ Advanced technology: Driver assistance and safety features
+ Practical design: Efficient layout for passenger flow 
+
+ 11. Winnebago Solis
+ Price: Starting at $45,000
+ Compact design: Ideal for solo or couple adventures
+ Basic amenities: Kitchenette and sleeping area
+ Fuel efficiency: Suitable for long distances
+ Versatility: Can be used for camping or urban exploration
+
+ 12. Airstream Classic
+ Price: Starting at $80,000
+ Iconic design: Retro-inspired aerodynamic shape
+ Luxurious interior: High-end finishes and spacious layout
+ Comfortable living: Full kitchen and bathroom facilities
+ Off-grid capabilities: Solar panels and other self-sufficient features
+
+ 13. Thor Motor Coach Axis
+ Price: Starting at $100,000
+ Family-friendly: Multiple floor plans and sleeping options
+ Comfortable living: Spacious interior with amenities
+ Driving ease: Easy-to-drive chassis and handling
+ Technology features: Entertainment and navigation systems
+
+ 14. Entegra Coach Anthem
+ Price: Starting at $250,000
+ Luxury motorhome: High-end finishes and spacious layout
+ Advanced technology: Smart home features and driver assistance
+ Comfortable living: Multiple living areas and bedrooms
+ Powerful engine: Smooth and quiet performance 
+
+ 15. Newmar Dutch Star
+ Price: Starting at $200,000
+ Opulent interior: High-end finishes and custom options
+ Spacious living: Multiple slide-outs for expanded living space
+ Advanced technology: Entertainment and driver assistance features
+ Comfortable ride: Smooth and quiet driving experience
+
+ 
+ parts and Accessories
+
+
+Car Parts and Accessories
+
+ 1. Carbon Fiber Aerodynamic Kit
+ Price: Starts at $10,000
+ Material: Lightweight and durable carbon fiber
+ Performance: Improved aerodynamics and handling
+ Aesthetic appeal: Sleek and modern appearance
+
+ 2. Custom Forged Wheels
+ Price: Starts at $5,000 per set
+ Material: High-strength aluminum alloy
+ Design: Unique and stylish patterns
+ Performance: Reduced weight and improved handling
+
+ 3. Leather Interior Upgrade
+ Price: Starts at $5,000
+ Material: High-quality leather with custom stitching
+ Comfort: Soft and luxurious feel
+ Aesthetics: Enhanced interior ambiance 
+
+ 4. Diamond-Studded Grille
+ Price: Starts at $10,000
+ Material: Precious metals and gemstones
+ Appearance: Exclusive and eye-catching
+ Status Symbol: Represents wealth and luxury
+
+ 5. High-End Audio System
+ Price: Starts at $5,000
+ Sound quality: Exceptional audio clarity and performance
+ Technology: Advanced sound processing and amplification
+ Features: Multiple speakers and subwoofers
+
+ 6. Adaptive Suspension System
+ Price: Starts at $3,000
+ Technology: Real-time adjustment to road conditions
+ Comfort: Improved ride quality and handling
+ Performance: Enhanced vehicle dynamics
+
+ 7. Night Vision System
+ Price: Starts at $5,000
+ Technology: Infrared imaging for improved visibility
+ Safety: Enhanced night driving safety
+ Convenience: Detects pedestrians and animals
+
+ 8. Head-Up Display
+ Price: Starts at $1,000
+ Technology: Projects information onto the windshield
+ Convenience: Reduces driver distraction
+ Safety: Improves situational awareness
+
+ 9. Panoramic Sunroof
+ Price: Starts at $2,000
+ Aesthetics: Increased cabin light and spacious feel
+ Enjoyment: Enhanced driving experience and passenger comfort
+ Visibility: Improved outward visibility
+
+ 10. Luxury Seating
+ Price: Starts at $3,000 per seat
+ Material: Premium leather and suede
+ Comfort: Heated, ventilated, and massaging functions
+ Support: Ergonomic design for optimal comfort
+
+
+Bike parts
+
+ 1. Carbon Fiber Frame
+ Price: Starting from $2,000
+ Material: Lightweight and incredibly strong carbon fiber
+ Performance: Enhanced stiffness and responsiveness
+ Aesthetics: Sleek and modern appearance
+
+ 2. Öhlins Suspension
+ Price: Starting from $1,000
+ Performance: Adjustable damping for optimal handling
+ Comfort: Improved ride quality and shock absorption
+ Durability: High-quality components for long lifespan
+
+ 3. Brembo Brakes
+ Price: Starting from $500
+ Performance: Superior stopping power and modulation
+ Durability: Reliable and consistent braking
+ Aesthetics: Sleek and high-performance design
+
+ 4. Akrapovic Exhaust System
+ Price: Starting from $1,500
+ Performance: Increased horsepower and torque
+ Sound: Distinctive and aggressive exhaust note
+ Weight reduction: Lighter than stock exhaust systems
+
+ 5. Carbon Fiber Wheels
+ Price: Starting from $2,000
+ Weight reduction: Significant weight savings
+ Performance: Improved handling and acceleration
+ Aesthetics: Sleek and modern look
+
+ 6. Electronic Shifting System
+ Price: Starting from $1,000
+ Performance: Faster and more precise shifting
+ Ergonomics: Improved rider comfort
+ Technology: Advanced electronic components
+
+ 7. Custom Titanium Hardware
+ Price: Starting from $500
+ Weight reduction: Lighter than steel or aluminum
+ Durability: Corrosion-resistant and strong
+ Aesthetics: Sleek and high-end appearance
+
+ 8. High-End GPS Computer
+ Price: Starting from $500
+ Navigation: Detailed maps and route guidance
+ Performance tracking: Metrics for speed, distance, and elevation
+ Connectivity: Integration with smartphones and sensors
+
+ 9. Ergonomically Designed Saddle
+ Price: Starting from $200
+ Comfort: Pressure relief and support for long rides
+ Performance: Improved power transfer and pedaling efficiency
+ Customization: Adjustable fit for individual preferences
+
+ 10. Custom Paint Job
+ Price: Varies based on complexity
+ Aesthetics: Unique and personalized bike appearance
+ Durability: High-quality paint for long-lasting finish
+ Value: Increases bike's resale value 
+ 
+
+Buses and Motorhome Parts
+
+
+1. Engine: 
+   Estimated price: $10,000 - $50,000
+   Power output: Determines vehicle performance.
+   Fuel efficiency: Impacts operating costs.
+   Durability: Ensures longevity and reliability.
+   Maintenance: Ease of service and repair. 
+
+2. Transmission: 
+   Estimated price: $5,000 - $15,000
+   Gear ratios: Influences vehicle performance and fuel economy.
+   Durability: Resists wear and tear.
+   Smooth shifting: Enhances driving experience.
+   Maintenance requirements: Regular service needs. 
+
+3. Tires: 
+   Estimated price: $200 - $500 per tire
+   Tread life: Determines tire lifespan.
+   Traction: Impacts vehicle handling and safety.
+   Load capacity: Supports vehicle weight.
+   Rolling resistance: Affects fuel efficiency.
+
+4. Brakes: 
+   Estimated price: $500 - $2,000 per axle
+   Stopping power: Effective braking performance.
+   Durability: Resists wear and fade.
+   Maintenance: Ease of service and replacement.
+   Anti-lock braking system (ABS): Enhances safety.
+
+5. Suspension System: 
+   Estimated price: $1,000 - $5,000
+   Ride comfort: Impacts passenger experience.
+   Handling: Influences vehicle maneuverability.
+   Load capacity: Supports vehicle weight and cargo.
+   Durability: Resists wear and tear.
+
+6. Electrical System: 
+   Estimated price: $500 - $2,000
+   Power output: Provides sufficient energy for vehicle components.
+   Reliability: Ensures consistent performance.
+   Efficiency: Minimizes energy consumption.
+   Maintenance: Ease of troubleshooting and repair.
+
+7. HVAC System: 
+   Estimated price: $1,500 - $5,000
+   Heating and cooling capacity: Maintains passenger comfort.
+   Efficiency: Minimizes energy consumption.
+   Noise level: Impacts passenger experience.
+   Control options: Ease of operation.
+
+8. Seating: 
+   Estimated price: $200 - $1,000 per seat
+   Comfort: Provides a pleasant passenger experience.
+   Durability: Resists wear and tear.
+   Safety: Includes safety features like seat belts.
+   Adjustability: Allows for customization.
+
+9. Lighting System: 
+   Estimated price: $500 - $2,000
+   Visibility: Provides adequate illumination.
+   Durability: Resists damage and vibration.
+   Energy efficiency: Reduces power consumption.
+   Safety: Includes essential warning lights.
+
+10. Windshield: 
+   Estimated price: $500 - $1,500
+   Visibility: Clear view for the driver.
+   Durability: Resists cracks and damage.
+   Safety: Provides protection in case of accidents.
+   Solar control: Reduces heat and glare. 
+
+

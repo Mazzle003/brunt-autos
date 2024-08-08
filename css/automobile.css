@@ -1,11 +1,49 @@
+/* NAVIGATION SECTION */
+.brand-navigation {
+    background-color: rgb(5, 5, 50);
+    padding: 3.2rem 0;
+    border: none;
+}
+
+.brand-navigation > .grid-2-column {
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    align-items: center;
+    gap: 1.4rem;
+}
+
+.nav-list > li {
+    list-style: none;
+    display: inline-block;
+}
+
+.nav-list > li > a:link, 
+.nav-list > li > a:visited {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 600;
+    padding: .7rem 1.4rem;
+    transition: all 0.3s;
+}
+
+.nav-list > li > a:hover, 
+.nav-list > li > a:active {
+    border-bottom: .4rem solid #eca487;
+}
+
+
 /* HERO SECTION */
 
 .hero-section {
-    /* max-height: 50vh; */
+    max-height: 60vh;
     position: relative;
-    background: linear-gradient(to bottom, rgb(8, 8, 62), rgba(2, 2, 108, 0.475)),
+    background: linear-gradient(to bottom, rgb(5, 5, 50), rgba(2, 2, 108, 0.475)),
     url(../asset/img/audi.jpg);   
-    padding: 6.4rem 0 12.8rem 0;
+    padding: 12.8rem 0;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -13,7 +51,7 @@
 
 .hero-center {
     position: absolute;
-    max-width: 40%;
+    max-width: 100%;
     text-align: center;
     top: 50%;
     left: 50%;
@@ -21,5 +59,184 @@
 }
 
 .hero-text-box .primary-header {
-    font-size: 4.4rem;
+    font-size: 7.8rem;
+    color: #e47f57;
+}
+
+.hero-text-box .primary-header + p {
+    color: #fff;
+    font-size: 1.8rem;
+    padding: 1rem 0 0 0;
+}
+
+.hero-text-box input {
+    max-width: 100%;
+    color: #10183c9d;
+    font-size: 2rem;
+    padding: 1.2rem 2.4rem;
+    margin-top: 2.4rem;
+    border: none;
+    border-radius: .6rem;
+    transition: all 0.35s;
+}
+
+.hero-text-box input::placeholder {
+    text-align: center;
+    color: #10183c4c;
+    font-style: italic;
+}
+
+
+
+/* SIDEBAR SECTION */
+
+.product-sidebar-section {
+    padding: 8rem 0 0 0;   
+}
+
+.product-sidebar-section .container {
+    display: grid;
+    grid-template-columns: 0.4fr 2fr;
+    column-gap: 2.4rem;
+    align-items: start;
+    position: relative;
+}
+
+.side-bar {
+    margin: 0 0 0 1.2rem;
+    height: 50vh;
+    /* overflow: hidden; */
+}
+
+.sidebar-heading {
+    font-size: 1.8rem;
+    color: #eca487;
+    font-weight: 600;
+}
+
+.side-bar .navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+/* .side-bar .navigation > .nav {
+    border-bottom: 1px solid #08083e;
+    /* /* padding: 0 0 1.6rem 0;
+} */
+
+.side-bar .navigation > .nav a:link,
+.side-bar .navigation > .nav a:visited  {
+    text-decoration: none;
+    color: #08083e;
+    font-size: 1.4rem;
+    transition: all 0.3s;
+    
+}
+
+.side-bar .navigation > .nav a:hover,
+.side-bar .navigation > .nav a:active {
+    color: #868e96;
+}
+
+.autopart-categories {
+    background-color: #02026c79;
+    color: #fff;
+    margin-top: 1.6rem;
+    padding: .6rem;
+    box-shadow: -1rem 1rem 1.2rem rgba(0, 0, 0, 0.18);
+}
+
+/* .automobile-products {
+    overflow: scroll;
+    position: absolute;
+} */
+
+.display-heading > .secondary-header {
+    font-size: 3.2rem;
+    margin: 0 0 4.8rem 0;
+}
+
+.product.grid-4-column {
+    align-items: center;
+    column-gap: 2.4rem;
+    row-gap: 3.2rem;
+}
+
+/* .auto-part-category {
+    background-color: #02026c79;
+    height: 50rem;
+    padding: 2.4rem 0;
+} */
+
+.parts .product.grid-2-column {
+    align-items: start;
+    row-gap: 3.2rem;
+    column-gap: 2.4rem;
+}
+
+.auto-part-category-header {
+    color: #343a4080;
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 2.4rem;
+}
+
+.auto-part-category > .grid-2-column {
+    row-gap: 2.4rem;
+    column-gap: 1.4rem;
+}
+
+.auto-part-category > .grid-4-column {
+    row-gap: 3.2rem;
+    column-gap: 2.4rem;
+}
+
+
+/* MEDIA QUERY */
+
+/* XXL 1400 upward */
+
+@media (min-width: 1450px) {
+    .product.grid-4-column {
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+    .parts .product.grid-2-column {
+        column-gap: 3.2rem;
+    }
+
+    /* .auto-part-category > .grid-4-column {
+        grid-template-columns: repeat(5, 1fr);
+    } */
+}
+
+/* XL 1200 t0 1400 */
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+
+}
+
+/* Lg 992 to 1200 */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+/* md 768 to 992 */
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+}
+
+/* sm 576 to 768 */
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+}
+
+/* Extra small < 576 */
+
+@media (max-width: 576px) {
+
 }

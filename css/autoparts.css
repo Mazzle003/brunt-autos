@@ -1,0 +1,31 @@
+/* HERO SECTION */
+
+.hero-section {
+    /* max-height: 50vh; */
+    position: relative;
+    background: linear-gradient(to bottom, rgb(8, 8, 62), rgba(2, 2, 108, 0.475)),
+    url(../asset/img/audi.jpg);   
+    padding: 9.2rem 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-center {
+    position: absolute;
+    max-width: 50%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hero-text-box .primary-header {
+    color: #e47f57;
+    font-size: 5.2rem;
+}
+
+.hero-text-box .primary-header + p {
+    font-size: 1.2rem;
+    padding: 1rem 0 0 0;
+}
